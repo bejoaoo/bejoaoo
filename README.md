@@ -9,7 +9,7 @@ Desenvolvedor Javascript
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaojpmoreira25@gmail.com)](mailto:joaojpmoreira25@gmail.com)
 
 ### Olá, :octocat:
-Técnico de Desenvolvimento de Sistemas.
+Sou formado em Técnico de Desenvolvimento de Sistemas.
 
 >Programador com experiência em desenvolvimento de web, mobile e desktop, não pensando apenas no desenvolvimento funcional mas também no visual das aplicações procurando >ter conhecimento sobre Design e Marketing digital.
 
