@@ -1,8 +1,7 @@
-# João Paulo
-
-``
-Desenvolvedor Javascript
-``
+<p align="center">
+  <img src="https://github.com/imxuaum/imxuaum/blob/master/assets/wallpaper-github.png" width="100%"
+  alt="João Paulo" />
+</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/imxuaum)](https://github.com/imxuaum)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imxuaum)](https://www.linkedin.com/in/imxuaum)
