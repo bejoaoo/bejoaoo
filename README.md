@@ -4,9 +4,13 @@
   
   <br>
   
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/imxuaum)](https://github.com/imxuaum)
+  <div align="center">
+    [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/imxuaum)] (https://github.com/imxuaum)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imxuaum)](https://www.linkedin.com/in/imxuaum)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaojpmoreira25@gmail.com)](mailto:joaojpmoreira25@gmail.com)
+    <div align="center">
+      [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaojpmoreira25@gmail.com)]   (mailto:joaojpmoreira25@gmail.com)
+    </div>
+  </div>
 </p>
 
 <h3 align="center">
