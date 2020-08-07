@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/imxuaum/imxuaum/blob/master/assets/wallpaper-github.png" width="100%"
+  <img src="https://github.com/imxuaum/imxuaum/blob/master/assets/wallpaper-github.png" width="80%"
   alt="João Paulo" />
 </p>
 
