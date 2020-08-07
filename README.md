@@ -6,7 +6,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imxuaum)](https://www.linkedin.com/in/imxuaum)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaojpmoreira25@gmail.com)](mailto:joaojpmoreira25@gmail.com)
-[![Whatsapp Badge](img.shields.io/badge/-Whatsapp-000?style=flat-square&color=dark-green&logo=Whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=+5513996450242)](https://web.whatsapp.com/send?phone=+5513996450242)
+[![Gmail Badge](http://img.shields.io/badge/-Whatsapp-000?style=flat-square&color=dark-green&logo=Whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=+5513996450242)](https://web.whatsapp.com/send?phone=+5513996450242)
+
 </div>
 
 <h3 align="center">
