@@ -14,7 +14,7 @@
   Hello, I'm João! 👋
 </h3>
 <p align="center">
-  MongoDB | Express.js | ReactJS | Node.js | HTML | CSS | JavaScript | TypeScript | React Native | Redux | PostgreSQ
+  MongoDB | Express.js | ReactJS | Node.js | HTML | CSS | JavaScript | TypeScript | React Native | Redux | PostgreSQL
 </p>
 
 <!--
