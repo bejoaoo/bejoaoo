@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fun fact **Meeseeks 😜**
 
-- 👨‍💻 More at [bejoaoo.dev](https://bejoaoo.dev)
+- 👨‍💻 More at [bejoaoo.vercel.app](https://bejoaoo.vercel.app)
 
 <!--
 
@@ -56,7 +56,7 @@
 <a href="https://instagram.com/bejoaoo" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-bejoaoo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/bejoaoo" target="_blank">
+<a href="https://www.youtube.com/channel/UCmMlUb-ZP6LrMX0IC1G5Hzw" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-bejoaoo-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
