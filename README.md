@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/bejoaoo/bejoaoo/master/assets/card.png"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/bejoaoo/bejoaoo/master/assets/card-perfil.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Moreira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bejoaoo&color=yellow" alt="Profile views" /> </p>
 
