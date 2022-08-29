@@ -6,13 +6,13 @@
 
 - 🔭 Currently looking for a job placement
 
-- ▶️ I (not) regularly post videos on [youtube.com/bejoaoo](https://www.youtube.com/channel/UCmMlUb-ZP6LrMX0IC1G5Hzw)
+<!-- ▶️ I (not) regularly post videos on [youtube.com/bejoaoo](https://www.youtube.com/channel/UCmMlUb-ZP6LrMX0IC1G5Hzw) -->
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 - ⚡ Fun fact **Meeseeks 😜**
 
-- 👨‍💻 More at [bejoaoo.vercel.app](https://bejoaoo.vercel.app)
+- 👨‍💻 More at [beacons.ai/joaomni](https://beacons.ai/joaomni)
 
 <!--
 
@@ -47,17 +47,17 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/bejoaoo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-bejoaoo-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/joaomni" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joaomni-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/bejoaoo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-bejoaoo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/joaomni" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joaomni-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/bejoaoo" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-bejoaoo-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/joaomni" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-joaomni-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCmMlUb-ZP6LrMX0IC1G5Hzw" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-bejoaoo-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-joaomni-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
